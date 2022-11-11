@@ -53,4 +53,4 @@ not for now (at least a month)
 
 # Usage
 
-Go check usage readme [here]()
+Go check usage readme [here](https://github.com/Retr0Kr0dy/PyHackLib/blob/main/docs/usage.md)
