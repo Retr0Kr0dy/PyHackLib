@@ -26,8 +26,8 @@ class KeyGenRSA:
     def GenerateKey(size=int):
         size=int(size)
    
-        if size not in [1024,2048,3072,4098]:
-            return "Wrong key size --- 1024 \ 2048 \ 3072 \ 4098"
+        if size not in [1024,2048,3072,4096]:
+            return "Wrong key size --- 1024 \ 2048 \ 3072 \ 4096"
 
         private_key = rsa.generate_private_key(
             public_exponent=65537,
