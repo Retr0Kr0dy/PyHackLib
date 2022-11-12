@@ -3,10 +3,11 @@
 #
 ## Summary
 
-- ### Purpose
+- ### [Purpose](https://github.com/Retr0Kr0dy/PyHackLib#purpose-1)
 
-- ### What's available for now 
+- ### [What's available for now](https://github.com/Retr0Kr0dy/PyHackLib#whats-available-for-now-1) 
 
+ - ### [Usage](https://github.com/Retr0Kr0dy/PyHackLib/blob/main/docs/usage.md)
 
 # Purpose
 
@@ -43,9 +44,17 @@ AES - `KeyGen, Encrypt, Decrypt`
 
 RSA - `KeyGen, Encrypt, Decrypt`
 
+XOR - comming soon ...
+
+Cracker - coming soon ...
+
+Slicer/Deslicer - coming soon ...
+
 ## Sockets.
 
-Coming soon...
+TCP - `Listener, Connect, Handle`
+
+UDP - comming soon ...
 
 ## Wireless.
 
